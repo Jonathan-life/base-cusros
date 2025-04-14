@@ -1,0 +1,22 @@
+Array
+(
+    [id] => 10
+    [titulo] => rogelio
+    [descripcion] => dfgdfg
+    [duracion_horas] => 8
+    [nivel] => Intermedio
+    [precio] => 45.00
+    [fecha_inicio] => 2025-04-13
+    [id_categoria] => 3
+)
+Array
+(
+    [id] => 7
+    [titulo] => riverairoal
+    [descripcion] => asda
+    [duracion_horas] => 8
+    [nivel] => Avanzado
+    [precio] => 45.00
+    [fecha_inicio] => 2025-04-13
+    [id_categoria] => 3
+)
